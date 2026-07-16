@@ -1,10 +1,44 @@
-# ✨ GuyZeus
-## 编程语言：C、Java <br>
-前端技术：HTML、CSS<br>
-开发工具：VS Code、IntelliJ IDEA、Dev-C++<br>
-版本控制：Git、GitHub<br>
-<h1>你好</h1>
+# 👋 你好，我是 GuyZeus
 
+一个软件技术专业的在读学生，也是个爱折腾的技术博主。  
+喜欢用代码解决问题，也喜欢把踩过的坑写出来分享给别人。
 
+## 🛠️ 技术栈
 
+**编程语言**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**后端**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**前端**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**运维 & 工具**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenResty](https://img.shields.io/badge/OpenResty-000000?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+## 🚀 正在做
+
+- 📚 学习 Java Web 开发，用 Spring Boot 搭学生信息管理系统
+- ✍️ 运营个人博客 [blog.guyzeus.top](https://blog.guyzeus.top)，基于 Halo + MySQL + Docker 部署
+- 🔧 折腾服务器运维，1Panel / OpenResty 日常
+
+## 📫 联系我
+
+- 🌐 博客：[blog.guyzeus.top](https://blog.guyzeus.top)
+- 💻 GitHub：[@GuyZeus](https://github.com/GuyZeus)
+
+---
+
+⭐️ 欢迎来我的博客逛逛 → [blog.guyzeus.top](https://blog.guyzeus.top)
