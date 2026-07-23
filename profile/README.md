@@ -31,7 +31,7 @@
 ## 🚀 正在做
 
 - 📚 学习 Java Web 开发，用 Spring Boot 搭学生信息管理系统
-- ✍️ 运营个人博客 [blog.guyzeus.top](https://blog.guyzeus.top)，基于 Halo + MySQL + Docker 部署
+- ✍️ 运营个人博客 [blog.guyzeus.top](https://blog.guyzeus.top)，
 - 🔧 折腾服务器运维，1Panel / OpenResty 日常
 
 ## 📫 联系我
