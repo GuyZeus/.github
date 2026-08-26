@@ -31,7 +31,7 @@
 ## 🚀 正在做
 
 ![学习中](https://img.shields.io/badge/学习中-Java_Web_开发-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![运营中](https://img.shields.io/badge/运营-个人博客-0EA5E9?style=flat-square&logo=blogger&logoColor=white)(https://blog.guyzeus.top)
+[![运营中](https://img.shields.io/badge/运营-个人博客-0EA5E9?style=flat-square&logo=blogger&logoColor=white)](https://blog.guyzeus.top)
 
 ## 📫 联系我
 
