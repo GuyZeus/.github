@@ -32,11 +32,13 @@
 
 ![学习中](https://img.shields.io/badge/学习中-Java_Web_开发-6DB33F?style=flat-square&logo=spring&logoColor=white)
 [![运营中](https://img.shields.io/badge/运营-个人博客-0EA5E9?style=flat-square&logo=blogger&logoColor=white)](https://blog.guyzeus.top)
+![折腾中](https://img.shields.io/badge/运维-1Panel%2FOpenResty-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📫 联系我
 
 [![博客](https://img.shields.io/badge/博客-blog.guyzeus.top-0EA5E9?style=flat-square&logo=internetexplorer&logoColor=white)](https://blog.guyzeus.top)
 [![GitHub](https://img.shields.io/badge/GitHub-@GuyZeus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuyZeus)
+[![Email](https://img.shields.io/badge/Email-GuyZeus%40mail.timxy.com-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:GuyZeus@mail.timxy.com)
 
 ---
 
